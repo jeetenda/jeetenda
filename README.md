@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Coder
+🌱 I’m currently learning MERN.
+👯 I’m looking to collaborate on React.
+📫 How to reach me jeetendra.chauhan05@gmail.com
+🥅 Goals: Aspire to become Full Stack Developer & Contribute more to Open Source projects.
+⚡ Fun fact: I love Chess.
+Languages and Tools:
+  redux html5 css3  
