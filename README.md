@@ -1,162 +1,72 @@
-<p>
-<h1>Hi Traveller, I am <a href="https://jeetenda.github.io/Portfolio/#/home">JITENDRA SINGH </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# Hi, I'm Jitendra Singh Chauhan 👋
+
+📍 **Location:** Bengaluru, Karnataka  
+📧 **Email:** jeetendra.chauhan05@gmail.com  
+🌐 **GitHub:** [https://github.com/jeetenda](https://github.com/jeetenda)  
+🔗 **LinkedIn:** [www.linkedin.com/in/jitendra-chauhan](www.linkedin.com/in/jitendra-chauhan)   
+**Contact:** +91-8817672339
+
+## Career Objective
+Aspiring a suitable response position in an organization that provides me an opportunity to prove myself and polish my skills through challenging tasks to improve myself as well as for the organization. I'm personally passionate about working on impactful React JS projects. I've been pretty well versed in React in the last couple of years; I'm looking forward to working on challenging problems at scale while getting some exposure to the backend as well. Also, I am excited to work on micro-frontend & microservices on the backend. I have a huge interest in server-level things like AWS using docker, server-less architecture, Lambda, and Web Socket that are useful to roll out performance and scalable products.
+
+## Profile Summary
+Experienced Web Specialist with a demonstrated history of working in the information technology and services industry. I am a B.Tech. Graduate in computer science with 5+ years of experience in web (JavaScript) development and knowledge of HTML, CSS, JavaScript, and React JS, Hooks, Redux, Thunk, Node, Express and data structure and algorithms. I can write well-designed, testable, efficient code by using best software development practices. Creating website layouts/user interfaces by using standard HTML/CSS practices. Integrating data from various back-end services and databases like Node, Express, Mongo, AWS.
+
+## Qualification
+- 10th from M.P. Board with 80% from S.V.M School.
+- 12th from M.P. Board with 70% from G.B.School.
+- B.Tech. (C.S.E.) with 7.0 CGPA from ITM Engineering College, Gwalior.
+
+## Certifications
+- Pesto Engineering Fellowship (2021).
+- Cambridge ESOL entry-level certificate in ESOL international (business English) level 2 grade (A2).
+
+## Skills
+- **Experience with:**
+  - HTML5, CSS3, ES6, Bootstrap/Material, and related web technologies.
+  - UI Design with a mobile-first approach, Responsive website development, Media query.
+  - Knowledge of CSS/CSS3 and its pre-processors like SASS/LESS.
+  - Strong proficiency in JavaScript, including DOM manipulation.
+  - React and its core principles: Hooks, Redux, Redux-Thunk(middleware), Node, Express.
+  - Experience with Visual Studio Code, Git, RESTful APIs, Babel, Webpack, Web Socket, NPM, JSON, AJAX, JSX MySQL, sprint planning, Agile, Scrum, speed optimization, React Testing Library, Jest, Cypress.
 
 
-Nice to meet you!<br>
-Please take a look around!<br> 
+## Previous Working Experience
+- **Company name- (Nov 2022 – Present)**
+  - Responsibility – Web development using JavaScript, Html, Html5, CSS, CSS3, Json, React JS, Redux, Redux-thunk, Hooks, Node, Express, GIT, sprint planning, Agile, Scrum, with Restful Web Services.
 
-**Software Test Enginner** | **Front-End Developer** | **Automation** 
-</p>
-
-<a href="https://www.linkedin.com/in/abdul-wahab-750174103/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/AbdulWahab0"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="mailto:wahab3060@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/Abdul99860802"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://twitter.com/Abdul99860802"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
-
-
-
-
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+- **Company name- Wipro (Bangalore) (May 2021 – Oct 2022)**
   
-**Talking about Personal Stuffs:** ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbdulWahab0)
+- **Company name- Birlasoft (Noida) (Apr 2021 – Apr 2021)**
+  
+- **Company name- TCS (Noida) (Jan 2018 – Apr 2020)**
 
+## Projects
 
-- 🏢 I'm currently working at Software Test Engineer  **ONCARE, MUNICH** 
-- 🌍 I'm mostly active on [Instagram](https://www.instagram.com/abdul_wahab099/)
-- 🌱 Learning all about **Automation**
-- 💬 Ping me about **Development**, **Automation**, **Test Script**, **Test Cases**, **Design**
-- ⚡️ Fun fact: Running my own youtube channel 
-- 📝[Resume](https://drive.google.com/file/d/1irNsysNoeBUD4Rn2LPq3g92ndSU4uiXT/view)
+### The Food Adda
+End-to-end developed web application. Followed development best practices such as PRD, UI/UX design, Development, Dev-Ops, Project Artifacts: PRD, UX Wireframes, Engineering, Design, Sketch, Frontend, Backend.
+**Tech:** JavaScript, Express, React, Redux, Material, HTML, CSS, Mongo, AWS. Github-Action, Heroku, Netlify.
 
-**Languages and Tools:**  
-<p>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow"/>
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript"/>
-<img src="https://img.shields.io/badge/-node.js-green?&style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-JIRA-blue?style=flat-square&logo=jira"/>
-<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/-Confuence-172B4D?style=flat-square&logo=confluence"/>
-<img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins&"/>
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman"/>
-<img src="https://img.shields.io/badge/-Cypress-grey?&style=flat-square&logo=cypress&color=grey" />
-<img src="https://img.shields.io/badge/-Selenium-green?&style=flat-square&logo=selenium&color=green" />
-<img src="https://img.shields.io/badge/-Cucumber-green?&style=flat-square&logo=selenium&color=success" />
-	</p>
+### Alexa Skill
+Web-based product made for a salon handled by Alexa Device. When a customer comes to the store parlor for a massage, then Alexa device will do registration. After that, when the chair is free, the customer is assigned a chair and does a massage according to the customer’s choice and height-weight of the customer. After this record is stored in the database, by the admin portal, admin can check who has visited his salon and billing information.
+**Tech:** JavaScript, React Js, Redux, Redux-Thunk, Java Script, HTML, CSS, MySQL, Rest API, Git, Jira.
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/AbdulWahab0/abdul.wahab"><b>Portfolio(CV)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/AbdulWahab0/Pizza-Shop"><b>Pizza-Shop</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+### Conduent CMDS Claims
+It was a web-based application for claims in the healthcare section. A US-based application for Conduent client doctors and patients can apply for various claims, and this is maintained by Conduent. The Conduent super admin maintains the dashboard; he can maintain all the claims using the application.
+**Tech:** JavaScript, React Js, Redux, Redux-Thunk, HTML, CSS, MySQL, Rest API, Git, Jira.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AbdulWahab0&count_private=true&show_icons=true&include_all_commits=true&theme=vue  )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab0&hide=TeX&layout=compact&theme=vue  )
+### US Bank Smart Forms
+Web-based product by which users can generate multiple types of forms to get data without any knowledge of design. Simply drag and drop and create the form that is available on every portal of the US bank using simple JSON data. On the core team that designed the Frontend of Admin module with reusable UI components for one of the largest banking systems in the USA with more than $1m transaction volume. Built the frontend for the web app (Admin module) from scratch along with API integration used by 10K+ users across the world.
+**Tech:** JavaScript, React Js, Redux, Redux-Thunk, ES6, MySQL, Rest API, Git, Jira.
 
-<h3>What I do? 👨‍💻</h3>
-<details>
-<summary>Software Test Engineer</summary>
-</details>
-<details>
-<summary>Front-End Developer 🍥 </summary>
-</details>
-<h3>The Questions You May Have 😕</h3>
-<details>
-  <summary>Who are you? 👨</summary>
-  <pre>
-  A highly organized, dynamic and enthusiastic Freshly Graduated Master in Computer Science and IT professional with 1.5 year of experience in web development with Testing and technology support with a strong emphasis on frontend Technologies and some Backend Technologies.Detailed oriented with strong problem-solving, work ethics, communication, interpersonal and teamwork skill..<br>
-  My name describes my qualities,
-  A: Active Learner
-  B: Bashful (Shy )
-  D: Developer
-  U: Unique
-  L: Active Lisner
-  </pre>
-</details>
+## Declaration
+I clearly declare that all the above information is correct to the best of my knowledge.
 
-<summary>What do you do other than building Web developmnet systems? 💁‍♂️</summary>
-  <ul>
-    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://www.linkedin.com/pulse/data-scientist-sexiest-job-21st-century-abdul-wahab/?articleId=6326891767505526785#comments-6326891767505526785&trk=public_profile-settings_article_view">Abdul's Blog</a>.</li>
-    <li>I have worked as a public Event Manager in Berlin and a member of the Pakistan Embassy Berlin Event Team. We work for Pakistani students issues and manage all Pakistani culture Base events</li>
-    <li>I design, build, and deploy interactive websites. Whenever I am free, I try to create web designs in Figma.</li>
-  </ul>
-</details>
-
-<h3>What if you like my work? 🤩</h3>
-<ul>
-  <li>Subscribe to my <a href="https://www.youtube.com/channel/UCSkIVijkVpnUfbBXQnLDQRw">Abdul Wahab</a>.</li>
-  <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts..!!</li>
-</ul>
-
-
-
-<h2>💻 Check Out My Repos ⬇️ </h2>
-<h3>Portfolio (CV)</h3>
-<a href="https://github.com/AbdulWahab0/abdul.wahab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=abdul.wahab&theme=vue  " />
-</a>
-
-<h3>Software Tetsing </h3>
-<a href="https://github.com/AbdulWahab0/Cypress-E-Commerce-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Cypress-E-Commerce-Website&theme=vue  " />
-</a>
-<a href="https://github.com/AbdulWahab0/Cypres_RestApi_Automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Cypres_RestApi_Automation&theme=vue  " />
-</a>
-<a href="https://github.com/AbdulWahab0/Cypress-E-Commerce-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Cypress_Signup_Form&theme=vue  " />
-</a>
-<a href="https://github.com/AbdulWahab0/Wunderflats-Automation_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Wunderflats-Automation_Project&theme=vue  " />
-</a>
-
-
-
-
-
-<h3>Development </h3>
-<a href="https://github.com/AbdulWahab0/Pizza-Shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Pizza-Shop&theme=vue  " />
-</a>
-
-<a href="https://github.com/AbdulWahab0/corona_tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=corona_tracker&theme=vue  " />
-</a>
-<a href="https://github.com/AbdulWahab0/Movies-App-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=corona_tracker&theme=vue  " />
-</a>
-<a href="https://github.com/AbdulWahab0/Youtube-Clone-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Youtube-Clone-React&theme=vue  " />
-</a>
+**Date:** [Add Date]  
+**Signature:** [Your Signature]  
+**Role:** Sr. Software Engineer (SSE)  
+**Company:** Nagravision (Bangalore)  
+**Date of Joining:** May 2018  
+**Current Role:** Sr. Software Engineer (SSE)  
+**Company:** Infocache System (Bangalore)  
+**Duration:** (Nov 2022 – Present)
